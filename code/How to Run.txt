@@ -1,0 +1,17 @@
+Run Steps: 
+
+Run Files:
+	1 - feature engineering 1.ipynb 
+	2 - data engineer 2 part 1.ipynb
+	3 - data_engineer_2_part_2.ipynb
+	4 - Pipeline and ML.ipynb
+
+To Test Output:
+Run 
+	test model.ipynb
+
+
+To show File Deployment (Streamlit file)
+Run 
+
+	deployment.py
