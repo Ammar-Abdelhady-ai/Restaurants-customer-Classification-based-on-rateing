@@ -3,3 +3,4 @@
 *.psd filter=lfs diff=lfs merge=lfs -text
 save[[:space:]]files/model.h5 filter=lfs diff=lfs merge=lfs -text
 save[[:space:]]files/*.h5 filter=lfs diff=lfs merge=lfs -text
+data[[:space:]]files[[:space:]]preparing/zomato.csv filter=lfs diff=lfs merge=lfs -text
